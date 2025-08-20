@@ -69,7 +69,7 @@ function App() {
        <h2>{resultado}</h2>
      </div>
     <div className="regra">
-      <h4>Regras</h4>
+      <h4>Regras :</h4>
       <div style={{display: soma1 == 0 ?"block": "none"}}>
       <p> 7 ou 11: Você Vence</p>
       <p> 2, 3 ou 12: Você Perde</p>

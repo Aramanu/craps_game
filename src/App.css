@@ -10,6 +10,7 @@
   display: flex;
   gap: 150px;
   margin-left: 100px;
+  align-items: center;
 
 }
 .jogada {
@@ -19,7 +20,8 @@
 }
 h1 {
   color:red;  
-  font-size: 30px;
+  font-size: 50px;
+  text-align: center;
 
 }
 button{
@@ -35,5 +37,24 @@ button{
 .botao {
   display: flex;
   gap: 100px;
+  align-items: center;
   
 }
+
+h2 {
+  color:red;
+  font-size: 45px;
+}
+.regra{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 150px;
+}
+h4 {
+  color: red;
+  font-size: 30px;
+}
+p {
+  color: blue;
+  font-size: 20px;}
