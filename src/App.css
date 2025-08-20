@@ -1,0 +1,39 @@
+#root {
+ 
+}
+
+.imagenLogo {
+  width: 300px;
+  height: 200px;
+}
+.cabecalho {
+  display: flex;
+  gap: 150px;
+  margin-left: 100px;
+
+}
+.jogada {
+  display: flex;
+  gap: 100px;
+  padding: 100px;
+}
+h1 {
+  color:red;  
+  font-size: 30px;
+
+}
+button{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  margin-left: 150px;
+  width: 150px;
+  height: 60px;
+  display: block;
+
+}
+.botao {
+  display: flex;
+  gap: 100px;
+  
+}
